@@ -10,8 +10,8 @@ function NavBar() {
   ]
 
   return (
-    <header className="shadow-md bg-white sticky top-0 z-50">
-      <div className="mx-auto flex items-center justify-between px-6 py-3">
+    <header className=" bg-white sticky top-0 z-50">
+      <div className="mx-auto flex items-center justify-between px-6 py-2">
         
         {/* Brand Logo */}
         <a href="#">

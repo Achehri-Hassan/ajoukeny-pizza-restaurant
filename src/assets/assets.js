@@ -1,4 +1,5 @@
 import logo_azoukeny from  "./logo_azoukeny.png"
+import hero from "./hero.jpg"
 
 
 
@@ -6,6 +7,7 @@ import logo_azoukeny from  "./logo_azoukeny.png"
 
 const assets = {
      logo_azoukeny,
+     hero,
 };
 
 
