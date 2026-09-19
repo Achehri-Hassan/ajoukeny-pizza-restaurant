@@ -24,7 +24,7 @@ function Hero() {
 
       {/* Text block */}
       <div className="relative z-10 px-6 pb-10 pt-16 lg:absolute lg:left-[30.4%] lg:top-[20%] lg:p-0">
-        <h1 className="text-4xl font-extrabold leading-none tracking-tight text-white md:text-5xl lg:whitespace-nowrap lg:text-[4vw]">
+        <h1 className="mt-1 font-['Anton'] text-5xl leading-none tracking-wide text-white md:text-4xl lg:text-5xl xl:text-6xl">
           Authentic Italian Pizza
         </h1>
 
