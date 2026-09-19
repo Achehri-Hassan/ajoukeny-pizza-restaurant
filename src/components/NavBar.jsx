@@ -40,7 +40,7 @@ function NavBar() {
           <a
             href="#"
             aria-label="Shopping Cart"
-            className="text-2xl text-[var(--pimary-color)] hover:opacity-80 transition-opacity"
+            className="text-2xl text-[var(--black)] hover:opacity-80 transition-opacity"
           >
             <i className="fa-solid fa-cart-shopping"></i>
           </a>
